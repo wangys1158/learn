@@ -16,4 +16,8 @@ update master branch 2022-05-30 15:02:37
 
 XQ001 add message. 2022-05-30 14:50:56
 
+
 coding on dev branch ...............
+
+fix a bug logical.....
+
